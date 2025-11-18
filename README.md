@@ -4,7 +4,7 @@ type = Rect
 height = 250
 text = I%20will%20be%20IT%20programmer(I will be IT programmer)
 color = Blue
-<!--
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 **jwhjkl0720-alt/jwhjkl0720-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

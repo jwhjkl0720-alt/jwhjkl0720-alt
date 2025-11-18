@@ -1,5 +1,9 @@
-## Hi there 👋
-hi 
+Hi, my name is euncher jo 
+//Header 
+type = Rect
+height = 250
+text = I%20will%20be%20IT%20programmer(I will be IT programmer)
+color = Blue
 <!--
 **jwhjkl0720-alt/jwhjkl0720-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

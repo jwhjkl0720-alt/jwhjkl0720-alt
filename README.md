@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:170303,100:2a62bb&height=240&text=Hi!%20my%20name%20is%20Euncher%20Jo&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:170303,100:2a62bb&height=240&text=Hi!%20my%20name%20is%20Euncher%20Jo&animation=twinkling&fontColor=ffffff&fontSize=80" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> i'm Euncher Jo </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <li> "I'm improving my English speaking skills and coding abilites for self development. i'm sure i'll become wealthy inthe future." </div> 
+    <div style="font-weight: 300; font-size: 15px; text-align: left; color: #282d33;">  <li> "I'm improving my English speaking skills and coding abilites for self development. i'm sure i'll become wealthy inthe future." </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

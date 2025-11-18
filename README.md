@@ -1,4 +1,4 @@
-<img src="https://Hi my name is Euncher Jo.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+https://capsule-render.vercel.app/api?
 **jwhjkl0720-alt/jwhjkl0720-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
